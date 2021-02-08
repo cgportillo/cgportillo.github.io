@@ -3,20 +3,7 @@ h1 {
 }
 
 body {
-  background-color: #D8D8D8;
-}
-
-.special {
-  color: yellow;
-  font-weight: bold;
-}
-
-a:link {
-  color: purple;
-}
-
-a:visited {
-    color: red;
+  background-color: #DCDCDC;
 }
 
 a:hover {
